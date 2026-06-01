@@ -1,0 +1,10 @@
+{
+  "h_star": 0.46504559,
+  "std_threshold": 3.0,
+  "pca_components": 50,
+  "pca_explained_variance_pct": 62.94,
+  "train_in_AD": 305,
+  "train_out_AD": 24,
+  "test_in_AD": 78,
+  "test_out_AD": 5
+}
